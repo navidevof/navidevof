@@ -5,7 +5,7 @@
 
 I'm a passionate software developer who loves building apps that help people in their hobbies or any area of ​​life. My experience spans several frameworks and technologies such as Vue.js, React.js, Next.js Node.js, TypeScript, and Firebase.
 
-🚀 I'm currently working on [SendMyMoney](https://github.com/navidevof/send-my-money) - a collaborative event platform for sharing and enjoying music.
+🚀 I'm currently working on [SendMyMoney](https://github.com/navidevof/send-my-money) - Allows businesses, entrepreneurs, and freelancers to easily share their payment methods.
 
 🔧 Tech stack:
 - **Frontend:** Vue.js, TailwindCSS
