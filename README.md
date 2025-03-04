@@ -5,7 +5,7 @@
 
 I'm a passionate software developer who loves building apps that help people in their hobbies or any area of ​​life. My experience spans several frameworks and technologies such as Vue.js, React.js, Next.js Node.js, TypeScript, and Firebase.
 
-🚀 I'm currently working on [Track your progress](https://github.com/navidevof/track-your-progress) - Easily track your progress in exercises and weights 💪.
+🚀 I'm currently working on [Track your progress](https://track-your-progress-nine.vercel.app) - Easily track your progress in exercises and weights 💪.
 
 🔧 My tech stack:
 - **Frontend:** Vue.js, React.js, NextJs, TailwindCSS
