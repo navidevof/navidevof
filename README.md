@@ -7,10 +7,10 @@ I'm a passionate software developer who loves building apps that help people in 
 
 🚀 I'm currently working on [SendMyMoney](https://github.com/navidevof/send-my-money) - Allows businesses, entrepreneurs, and freelancers to easily share their payment methods.
 
-🔧 Tech stack:
-- **Frontend:** Vue.js, TailwindCSS
-- **Backend:** Node.js, Express, Firebase
-- **Tools:** Vercel, GitHub Actions, Pinia, TypeScript
+🔧 My tech stack:
+- **Frontend:** Vue.js, React.js, NextJs, TailwindCSS
+- **Backend y BD:** Node.js, NestJs, Express, Firebase, PostgreSQL
+- **Tools:** Vercel, Railway, Pinia, TypeScript
 
 🌱 Always learning and expanding my knowledge, especially in full-stack development.
 
